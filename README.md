@@ -3,6 +3,6 @@
 
 - 📫 How to reach me **romualdo.delain@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+// <h3 align="left">Connect with me:</h3>
+// <p align="left">
+// </p>
